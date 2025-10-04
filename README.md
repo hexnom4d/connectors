@@ -76,7 +76,7 @@ services:
       - ./connectors/opencti-trend-connector/data:/data
     depends_on:
       - opencti
-
+````
 
 ## License
 
